@@ -1371,6 +1371,2857 @@
         "Receptor1": ["Hombre"]
       },
       "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Preliminares",
+      "Nivel": 2,
+      "Reto": "{Actor1} desabrocha lentamente la camisa o blusa de {Receptor1} usando solo los dientes.",
+      "puntuacion": 25,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preliminares",
+      "Nivel": 3,
+      "Reto": "{Actor1} escribe un mensaje erótico en la espalda de {Receptor1} con la punta de la lengua.",
+      "puntuacion": 40,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preliminares",
+      "Nivel": 1,
+      "Reto": "{Actor1} susúrrale al oído a {Receptor1} tu fantasía más secreta con voz sensual.",
+      "puntuacion": 15,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preliminares",
+      "Nivel": 2,
+      "Reto": "{Actor1} quítale los calcetines a {Receptor1} con la boca y masajea sus pies.",
+      "puntuacion": 28,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Preliminares",
+      "Nivel": 3,
+      "Reto": "{Actor1} y {Receptor1} daos de comer una fruta (fresa, uva) de boca a boca.",
+      "puntuacion": 35,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preliminares",
+      "Nivel": 4,
+      "Reto": "{Actor1} venda los ojos de {Receptor1} y explora su cuerpo con una pluma o un pincel suave.",
+      "puntuacion": 60,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preliminares",
+      "Nivel": 1,
+      "Reto": "{Actor1} baila una canción lenta y sensual muy pegado/a a {Receptor1}.",
+      "puntuacion": 10,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preliminares",
+      "Nivel": 2,
+      "Reto": "{Actor1} dale un beso apasionado a {Receptor1} contra la pared.",
+      "puntuacion": 30,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Preliminares",
+      "Nivel": 3,
+      "Reto": "{Actor1} siéntate en el regazo de {Receptor1} y muévete sensualmente durante un minuto.",
+      "puntuacion": 45,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Preliminares",
+      "Nivel": 1,
+      "Reto": "{Actor1} recorre con tus dedos los labios de {Receptor1} muy despacio.",
+      "puntuacion": 8,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preliminares",
+      "Nivel": 4,
+      "Reto": "{Actor1} derrama cera de una vela de masaje sobre la espalda de {Receptor1} y extiéndela con tu cuerpo.",
+      "puntuacion": 65,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preliminares",
+      "Nivel": 2,
+      "Reto": "{Actor1} imita el sonido del gemido que más te excita de {Receptor1}.",
+      "puntuacion": 22,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preliminares",
+      "Nivel": 3,
+      "Reto": "{Actor1} y {Receptor1} meteos en la ducha con ropa y besaos apasionadamente.",
+      "puntuacion": 50,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preliminares",
+      "Nivel": 1,
+      "Reto": "{Actor1} huele el cuello de {Receptor1} y describe su olor en voz alta.",
+      "puntuacion": 12,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preliminares",
+      "Nivel": 2,
+      "Reto": "{Actor1} besa cada uno de los dedos de la mano de {Receptor1} de forma sensual.",
+      "puntuacion": 20,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Masturbación",
+      "Nivel": 4,
+      "Reto": "{Actor1} masturba a {Receptor1} usando lubricante y describiendo lo que sientes.",
+      "puntuacion": 70,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Masturbación",
+      "Nivel": 3,
+      "Reto": "{Actor1} guía la mano de {Receptor1} para que te masturbe como a ti te gusta.",
+      "puntuacion": 55,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Masturbación",
+      "Nivel": 4,
+      "Reto": "{Actor1} utiliza tus pechos para masturbar el pene de {Receptor1}.",
+      "puntuacion": 75,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Masturbación",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} masturbaos mutuamente hasta llegar al orgasmo a la vez.",
+      "puntuacion": 85,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Masturbación",
+      "Nivel": 4,
+      "Reto": "{Actor1} masturba el clítoris de {Receptor1} con la lengua mientras ella está sentada en tu cara.",
+      "puntuacion": 80,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Masturbación",
+      "Nivel": 3,
+      "Reto": "{Actor1}, mastúrbate pensando en voz alta en {Receptor1}.",
+      "puntuacion": 58,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Masturbación",
+      "Nivel": 4,
+      "Reto": "{Actor1} realiza una 'paja cubana' (entre los muslos) a {Receptor1}.",
+      "puntuacion": 68,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Masturbación",
+      "Nivel": 4,
+      "Reto": "{Actor1} frota tus genitales contra los de {Receptor1} (ambos con ropa interior) hasta que uno de los dos se excite mucho.",
+      "puntuacion": 62,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Masturbación",
+      "Nivel": 5,
+      "Reto": "{Actor1} masturba a {Receptor1} con un vibrador, controlando tú la intensidad.",
+      "puntuacion": 82,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer", "Hombre"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Masturbación",
+      "Nivel": 3,
+      "Reto": "{Actor1} masajea los testículos de {Receptor1} de forma suave y sensual.",
+      "puntuacion": 50,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Masturbación",
+      "Nivel": 4,
+      "Reto": "{Actor1} masturba a {Receptor1} sin usar las manos (usa tu imaginación: pies, boca, etc.).",
+      "puntuacion": 78,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Masturbación",
+      "Nivel": 4,
+      "Reto": "{Actor1} y {Receptor1} masturbaos de espaldas el uno al otro, solo escuchando vuestras respiraciones.",
+      "puntuacion": 65,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Masturbación",
+      "Nivel": 5,
+      "Reto": "{Actor1} intenta llevar a {Receptor1} al orgasmo solo estimulando sus pezones.",
+      "puntuacion": 88,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Masturbación",
+      "Nivel": 3,
+      "Reto": "{Actor1} describe cómo te masturbarías si estuvieras solo/a.",
+      "puntuacion": 48,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Masturbación",
+      "Nivel": 4,
+      "Reto": "{Actor1} masturba a {Receptor1} mientras le susurras cosas sucias al oído.",
+      "puntuacion": 72,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Sumisión",
+      "Nivel": 3,
+      "Reto": "{Actor1} debe servir una bebida a {Receptor1} arrodillado/a y sin hablar.",
+      "puntuacion": 45,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Sumisión",
+      "Nivel": 4,
+      "Reto": "{Receptor1} ata las manos de {Actor1} a la espalda y le da de comer en la boca.",
+      "puntuacion": 65,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Sumisión",
+      "Nivel": 5,
+      "Reto": "{Actor1} debe estar a cuatro patas mientras {Receptor1} le pone un collar y le acaricia como a una mascota.",
+      "puntuacion": 80,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Sumisión",
+      "Nivel": 4,
+      "Reto": "{Receptor1} elige una parte del cuerpo de {Actor1} y este/a debe besarla durante un minuto.",
+      "puntuacion": 60,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Sumisión",
+      "Nivel": 3,
+      "Reto": "{Actor1} debe quitarse una prenda de ropa cada vez que {Receptor1} chasquee los dedos.",
+      "puntuacion": 50,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Sumisión",
+      "Nivel": 5,
+      "Reto": "{Actor1}, deja que {Receptor1} te vende los ojos y te dé órdenes que debes obedecer sin rechistar.",
+      "puntuacion": 85,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Sumisión",
+      "Nivel": 4,
+      "Reto": "{Actor1} debe adivinar qué parte de su cuerpo está tocando {Receptor1} con los ojos vendados. Si falla, obedece una orden.",
+      "puntuacion": 70,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Sumisión",
+      "Nivel": 3,
+      "Reto": "{Receptor1} usa a {Actor1} como reposapiés durante dos minutos.",
+      "puntuacion": 40,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Sumisión",
+      "Nivel": 4,
+      "Reto": "{Actor1} debe besar los pies de {Receptor1} de forma sumisa.",
+      "puntuacion": 68,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Sumisión",
+      "Nivel": 5,
+      "Reto": "{Receptor1} ata a {Actor1} a la cama y le hace cosquillas hasta que suplique parar.",
+      "puntuacion": 75,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Sumisión",
+      "Nivel": 3,
+      "Reto": "{Actor1} debe hablarle a {Receptor1} usando el título de 'Amo/a' durante 5 minutos.",
+      "puntuacion": 55,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Sumisión",
+      "Nivel": 4,
+      "Reto": "{Receptor1} derrama una bebida sobre {Actor1} y este/a debe limpiarla usando solo su boca.",
+      "puntuacion": 72,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Sumisión",
+      "Nivel": 5,
+      "Reto": "{Actor1} deja que {Receptor1} le dé nalgadas con un cinturón o una pala.",
+      "puntuacion": 90,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Sumisión",
+      "Nivel": 3,
+      "Reto": "{Actor1} debe arrodillarse y pedir permiso a {Receptor1} para poder besarle.",
+      "puntuacion": 48,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Sumisión",
+      "Nivel": 4,
+      "Reto": "{Receptor1} decide la postura en la que {Actor1} debe permanecer inmóvil durante 3 minutos.",
+      "puntuacion": 62,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} practica una felación a {Receptor1} con los ojos vendados.",
+      "puntuacion": 82,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 5,
+      "Reto": "{Actor1} practica un cunnilingus a {Receptor1} hasta que llegue al orgasmo.",
+      "puntuacion": 90,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} chupa la punta del pene de {Receptor1} sin usar las manos para sujetarlo.",
+      "puntuacion": 78,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 5,
+      "Reto": "{Actor1} haz un 69 con {Receptor1} durante al menos 3 minutos.",
+      "puntuacion": 92,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 3,
+      "Reto": "{Actor1} lame el perineo de {Receptor1} suavemente.",
+      "puntuacion": 55,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} introduce los dedos en la vagina de {Receptor1} y luego chupa tus propios dedos.",
+      "puntuacion": 75,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 5,
+      "Reto": "{Actor1} practica sexo oral a {Receptor1} mientras {Participante3} le masajea la espalda.",
+      "puntuacion": 95,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"],
+        "Participante3": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Grupo"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} lame desde los testículos de {Receptor1} hasta la punta del pene muy lentamente.",
+      "puntuacion": 80,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} practica el 'anilingus' a {Receptor1}.",
+      "puntuacion": 88,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 3,
+      "Reto": "{Actor1} besa y lame el monte de venus de {Receptor1}.",
+      "puntuacion": 58,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 5,
+      "Reto": "{Actor1} practica una felación a {Receptor1} hasta que eyacule en tu boca.",
+      "puntuacion": 94,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} combina besos, lametones y succión en el clítoris de {Receptor1}.",
+      "puntuacion": 85,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} utiliza un cubito de hielo para practicar sexo oral a {Receptor1}.",
+      "puntuacion": 76,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 5,
+      "Reto": "{Actor1}, {Receptor1} y {Participante3} forma una cadena de sexo oral.",
+      "puntuacion": 98,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"],
+        "Participante3": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Grupo"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 3,
+      "Reto": "{Actor1} recorre con tu lengua los labios mayores y menores de {Receptor1}.",
+      "puntuacion": 60,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} debe tener un orgasmo controlado por {Receptor1} (tease and denial).",
+      "puntuacion": 92,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} practicad sexo en un lugar semi-público (balcón, coche, etc.).",
+      "puntuacion": 96,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 4,
+      "Reto": "{Actor1} realiza una 'ducha dorada' sobre {Receptor1}.",
+      "puntuacion": 85,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} introduce un dildo o vibrador en la vagina de {Receptor1} mientras le practicas un cunnilingus.",
+      "puntuacion": 94,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} practica sexo anal con {Receptor1}.",
+      "puntuacion": 98,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 4,
+      "Reto": "{Actor1} eyacula sobre los pechos o el culo de {Receptor1}.",
+      "puntuacion": 80,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1}, {Receptor1} y {Participante3} realizad un trío (MHM o HMH).",
+      "puntuacion": 100,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"],
+        "Participante3": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Grupo"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 4,
+      "Reto": "{Actor1} utiliza pinzas en los pezones de {Receptor1} mientras le estimulas de otra forma.",
+      "puntuacion": 78,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} practica la 'irrumación' (sexo oral forzado) a {Receptor1}.",
+      "puntuacion": 95,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 4,
+      "Reto": "{Actor1} y {Receptor1} grabad un vídeo casero mientras tenéis relaciones.",
+      "puntuacion": 88,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} practica doble penetración a {Receptor1} con la ayuda de {Participante3} o un juguete.",
+      "puntuacion": 99,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"],
+        "Participante3": ["Hombre"]
+      },
+      "Interaccion": "Grupo"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 4,
+      "Reto": "{Actor1} juega a un juego de rol de 'secuestro', donde {Receptor1} es la víctima.",
+      "puntuacion": 82,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} lame los fluidos de {Receptor1} después de un orgasmo.",
+      "puntuacion": 90,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 4,
+      "Reto": "{Actor1} y {Receptor1} intercambiad la ropa interior y llevadla puesta durante 10 minutos.",
+      "puntuacion": 75,
+      "Duracion_segundos": 600,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} usa un látigo o fusta suavemente sobre la espalda y nalgas de {Receptor1}.",
+      "puntuacion": 93,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} en la postura de 'la carretilla'.",
+      "puntuacion": 90,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} siéntate en una silla y deja que {Receptor1} cabalgue sobre ti de cara.",
+      "puntuacion": 88,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} por detrás, mientras ella está de pie e inclinada sobre un mueble.",
+      "puntuacion": 86,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} probad la postura 'del 68', donde tú penetras y ella te practica una felación.",
+      "puntuacion": 95,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} intenta llegar al orgasmo a la vez que {Receptor1} mientras la penetras.",
+      "puntuacion": 92,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} con los ojos vendados, guiándote por sus gemidos.",
+      "puntuacion": 85,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} cambiad de postura cada minuto durante 5 minutos.",
+      "puntuacion": 84,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} en la postura 'del loto', sentados frente a frente.",
+      "puntuacion": 89,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} en el suelo, sin cojines ni cama.",
+      "puntuacion": 82,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Receptor1} se tumba boca abajo y {Actor1} la penetra levantando sus caderas.",
+      "puntuacion": 87,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} tened sexo sin besaros, solo mirándoos a los ojos.",
+      "puntuacion": 83,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} tan silenciosamente como sea posible.",
+      "puntuacion": 81,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} mientras le dices todo lo que te gusta de ella.",
+      "puntuacion": 80,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} deja que {Receptor1} controle el ritmo y la profundidad de la penetración.",
+      "puntuacion": 88,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} en la postura de 'la amazona' (ella encima y de espaldas).",
+      "puntuacion": 91,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 1,
+      "Reto": "{Actor1}, ¿cuál es el lugar más extraño donde has pensado en tener sexo?",
+      "puntuacion": 8,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 2,
+      "Reto": "{Actor1}, ¿preferirías tener sexo con alguien muy experimentado o con alguien virgen?",
+      "puntuacion": 25,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 3,
+      "Reto": "{Actor1}, si pudieras tener un 'pase libre' para acostarte con cualquiera, ¿elegirías a alguien que conoces?",
+      "puntuacion": 40,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 1,
+      "Reto": "{Actor1}, ¿luces encendidas o apagadas?",
+      "puntuacion": 5,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 2,
+      "Reto": "{Actor1}, ¿qué opinas de usar juguetes sexuales en pareja?",
+      "puntuacion": 20,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 3,
+      "Reto": "{Actor1}, describe el olor que más te excita en una pareja.",
+      "puntuacion": 35,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 1,
+      "Reto": "{Actor1}, ¿qué es más importante para ti en el sexo: el orgasmo o la conexión emocional?",
+      "puntuacion": 10,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 2,
+      "Reto": "{Actor1}, ¿alguna vez has fingido un orgasmo? ¿Por qué?",
+      "puntuacion": 30,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 3,
+      "Reto": "{Actor1}, si {Receptor1} te pidiera hacer algo que te incomoda en la cama, ¿cómo reaccionarías?",
+      "puntuacion": 45,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 1,
+      "Reto": "{Actor1}, ¿te importa el tamaño de los genitales de tu pareja?",
+      "puntuacion": 15,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 2,
+      "Reto": "{Actor1}, ¿cuál es tu 'palabra de seguridad' o cuál sería si practicaras BDSM?",
+      "puntuacion": 28,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 3,
+      "Reto": "{Actor1}, ¿hay algo que siempre hayas querido probar en la cama pero nunca te has atrevido a pedir?",
+      "puntuacion": 48,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 1,
+      "Reto": "{Actor1}, ¿prefieres el sexo planificado o espontáneo?",
+      "puntuacion": 7,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 2,
+      "Reto": "{Actor1}, ¿te excita la idea de que otras personas os escuchen teniendo sexo?",
+      "puntuacion": 32,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 3,
+      "Reto": "{Actor1}, ¿qué es lo más vergonzoso que te ha pasado durante el sexo?",
+      "puntuacion": 50,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+            "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} mientras ella está tumbada de lado con una pierna levantada.",
+      "puntuacion": 85,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} probad la postura de 'la mecedora', con ella sentada sobre ti y meciéndose.",
+      "puntuacion": 88,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} de pie, sosteniéndola en brazos.",
+      "puntuacion": 92,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} tened sexo en la cocina, con ella sentada en la encimera.",
+      "puntuacion": 89,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} mientras le tapas la boca suavemente con tu mano para contener sus gemidos.",
+      "puntuacion": 90,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} usa lubricante con efecto frío/calor durante la penetración.",
+      "puntuacion": 84,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} en la postura de 'la mariposa' (ella en el borde de la cama y tú de pie).",
+      "puntuacion": 91,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} deja que {Receptor1} se ate las muñecas a la cabecera de la cama mientras la penetras.",
+      "puntuacion": 93,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} justo hasta el borde del orgasmo y para. Repítelo 3 veces antes de dejarla llegar.",
+      "puntuacion": 94,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} tened un 'rapidito' contra la pared.",
+      "puntuacion": 86,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} mientras ambos estáis bajo el agua (ducha o bañera).",
+      "puntuacion": 88,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} usa un anillo vibrador para el pene durante la penetración para estimular el clítoris de {Receptor1}.",
+      "puntuacion": 87,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} hacedlo en un sofá, probando al menos dos posturas diferentes.",
+      "puntuacion": 85,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} tan fuerte y rápido como puedas durante un minuto.",
+      "puntuacion": 90,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} susurra guarradas al oído de {Receptor1} mientras la penetras lentamente.",
+      "puntuacion": 86,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} en la postura de 'la vaquera invertida' (ella encima, mirando hacia tus pies).",
+      "puntuacion": 91,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} usa tus dedos para estimular el clítoris de {Receptor1} mientras la penetras.",
+      "puntuacion": 89,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} tened sexo delante de un espejo grande, mirándoos.",
+      "puntuacion": 88,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} en 'la postura del helicóptero', con ella tumbada y tú de pie girando sus piernas.",
+      "puntuacion": 93,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} grita el nombre de {Receptor1} en el momento del orgasmo.",
+      "puntuacion": 83,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} practicad la penetración sin mover la pelvis, solo con contracciones vaginales ('pompoar').",
+      "puntuacion": 92,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} desde atrás mientras ella se masturba.",
+      "puntuacion": 90,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} hacedlo con música rock a todo volumen.",
+      "puntuacion": 85,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} muerde suavemente el hombro o el cuello de {Receptor1} durante la penetración.",
+      "puntuacion": 87,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} y para justo antes de eyacular. Sal y termina en su abdomen.",
+      "puntuacion": 88,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} practica sexo oral a {Receptor1} usando chocolate líquido o nata montada.",
+      "puntuacion": 78,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 5,
+      "Reto": "{Actor1} realiza un 'face sitting', {Receptor1} se sienta en tu cara mientras le practicas un cunnilingus.",
+      "puntuacion": 92,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} y {Receptor1} daos un beso apasionado inmediatamente después de que le hayas practicado sexo oral.",
+      "puntuacion": 80,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 5,
+      "Reto": "{Actor1} practica la 'garganta profunda' a {Receptor1} durante al menos 30 segundos.",
+      "puntuacion": 95,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} canta el alfabeto mientras le practicas un cunnilingus a {Receptor1}.",
+      "puntuacion": 85,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} intenta escribir tu nombre con la lengua en el pene de {Receptor1}.",
+      "puntuacion": 82,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 5,
+      "Reto": "{Actor1} deja que {Receptor1} eyacule donde quiera de tu cuerpo y luego láncelo.",
+      "puntuacion": 96,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} practica sexo oral a {Receptor1} sin parar mientras suena vuestra canción favorita.",
+      "puntuacion": 88,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 5,
+      "Reto": "{Actor1} practica un 'anilingus' a {Receptor1} hasta que te pida parar.",
+      "puntuacion": 94,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} alterna entre lamer los testículos y el pene de {Receptor1} durante dos minutos.",
+      "puntuacion": 86,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 5,
+      "Reto": "{Actor1} haz un 69 con {Receptor1} y competid para ver quién lleva antes al otro al orgasmo.",
+      "puntuacion": 98,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} usa solo la punta de tu lengua para estimular el clítoris de {Receptor1}.",
+      "puntuacion": 87,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} practica una felación a {Receptor1} mientras él te agarra del pelo.",
+      "puntuacion": 89,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} practicad sexo oral mutuo de pie.",
+      "puntuacion": 93,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} zúmbele el oído a {Receptor1} (simulando un zumbido) mientras le practicas sexo oral.",
+      "puntuacion": 84,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 5,
+      "Reto": "{Actor1} practica sexo oral a {Receptor1} y a {Participante3} al mismo tiempo.",
+      "puntuacion": 99,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"],
+        "Participante3": ["Hombre"]
+      },
+      "Interaccion": "Grupo"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} humedece tus dedos con saliva y masajea la vagina de {Receptor1} antes de usar tu lengua.",
+      "puntuacion": 85,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} practica una felación a {Receptor1} en un lugar donde corráis el riesgo de ser vistos.",
+      "puntuacion": 90,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 5,
+      "Reto": "{Actor1} bebe un líquido de la vagina de {Receptor1} (ej. champán).",
+      "puntuacion": 97,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} chupa los dedos de los pies de {Receptor1} y luego baja a hacerle sexo oral.",
+      "puntuacion": 88,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer", "Hombre"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 5,
+      "Reto": "{Actor1} practica un cunnilingus a {Receptor1} mientras ella está colgada boca abajo del borde de la cama.",
+      "puntuacion": 96,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} habla con la boca llena con el pene de {Receptor1} dentro.",
+      "puntuacion": 89,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} haced un 'snowballing' (pasarse el semen de una boca a otra con un beso).",
+      "puntuacion": 100,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 4,
+      "Reto": "{Actor1} hazle sexo oral a {Receptor1} usando solo los labios, sin lengua ni dientes.",
+      "puntuacion": 83,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Oral",
+      "Nivel": 5,
+      "Reto": "{Actor1} practica sexo oral a {Receptor1} hasta que tenga un orgasmo múltiple.",
+      "puntuacion": 98,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} intercambiad de pareja con otra pareja presente y besaos.",
+      "puntuacion": 98,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Grupo"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} practica sexo anal con {Receptor1} usando un arnés con dildo.",
+      "puntuacion": 97,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1}, sé el/la 'fluffer' de {Receptor1}, manteniéndole excitado/a sin contacto genital directo mientras interactúa con {Participante3}.",
+      "puntuacion": 95,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"],
+        "Participante3": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Grupo"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} tened sexo en un lugar público concurrido, tratando de no ser descubiertos.",
+      "puntuacion": 100,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 4,
+      "Reto": "{Actor1} usa un electroestimulador erótico en {Receptor1}.",
+      "puntuacion": 88,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} introduce comida (ej. pepino, plátano) en la vagina de {Receptor1} y luego cómetela.",
+      "puntuacion": 96,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} participa en una 'gang bang' con al menos otros dos participantes.",
+      "puntuacion": 100,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"],
+        "Participante3": ["Hombre"]
+      },
+      "Interaccion": "Grupo"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 4,
+      "Reto": "{Actor1} y {Receptor1} practicad 'frot' (frotarse los penes).",
+      "puntuacion": 85,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "MismoSexo"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} practica 'fisting' a {Receptor1}.",
+      "puntuacion": 99,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer", "Hombre"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 4,
+      "Reto": "{Actor1} y {Receptor1} haced un 'body sushi', colocando sushi sobre el cuerpo desnudo y comiéndolo.",
+      "puntuacion": 86,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} observa cómo {Receptor1} tiene sexo con {Participante3}.",
+      "puntuacion": 97,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Mujer", "Hombre"],
+        "Participante3": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Grupo"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 4,
+      "Reto": "{Actor1} y {Receptor1} practicad 'tribadismo' (frotar vulva con vulva).",
+      "puntuacion": 85,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "MismoSexo"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} realiza una 'felación a un consolador' mientras {Receptor1} lo sostiene y te da órdenes.",
+      "puntuacion": 93,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 4,
+      "Reto": "{Actor1} usa un vendaje para los ojos y tapones para los oídos en {Receptor1}, privándole de los sentidos mientras le haces de todo.",
+      "puntuacion": 90,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} tened sexo mientras habláis por teléfono con un desconocido.",
+      "puntuacion": 98,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 4,
+      "Reto": "{Actor1} escupe en la boca de {Receptor1} durante un beso.",
+      "puntuacion": 87,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} participa en una 'bukake'.",
+      "puntuacion": 100,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"],
+        "Participante3": ["Hombre"]
+      },
+      "Interaccion": "Grupo"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 4,
+      "Reto": "{Actor1} ata a {Receptor1} con cuerdas (shibari) en una postura decorativa y admíralo/a.",
+      "puntuacion": 89,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} realiza una 'penetración doble' a {Receptor1} (vaginal y anal) con ayuda de {Participante3}.",
+      "puntuacion": 99,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer"],
+        "Participante3": ["Hombre"]
+      },
+      "Interaccion": "Grupo"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 4,
+      "Reto": "{Actor1} y {Receptor1} jugad a la 'ruleta rusa sexual' (escribid varios retos en papeles y elegid uno al azar para hacerlo).",
+      "puntuacion": 91,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} deja que {Receptor1} y {Participante3} te usen como su juguete sexual.",
+      "puntuacion": 98,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"],
+        "Participante3": ["Hombre"]
+      },
+      "Interaccion": "Grupo"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 4,
+      "Reto": "{Actor1} realiza un 'footjob' a {Receptor1} hasta el orgasmo.",
+      "puntuacion": 88,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} sé filmado/a por {Receptor1} mientras te masturbas.",
+      "puntuacion": 94,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 4,
+      "Reto": "{Actor1} y {Receptor1} usad un 'butt plug' durante todo el juego.",
+      "puntuacion": 90,
+      "Duracion_segundos": 3600,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Extremo",
+      "Nivel": 5,
+      "Reto": "{Actor1} lame el sudor del cuerpo de {Receptor1} después de hacer ejercicio.",
+      "puntuacion": 92,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+"Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra analmente a {Receptor1} en la postura del misionero (con {Receptor1} tumbado boca arriba).",
+      "puntuacion": 90,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "MismoSexo"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} túmbate boca arriba y deja que {Receptor1} cabalgue sobre ti, controlando el ritmo y la profundidad.",
+      "puntuacion": 92,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "MismoSexo"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra analmente a {Receptor1} en la postura del perrito.",
+      "puntuacion": 91,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "MismoSexo"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} practica anilingus a {Receptor1} para prepararlo y, sin detenerte, comienza la penetración anal.",
+      "puntuacion": 96,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "MismoSexo"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra analmente a {Receptor1} de lado (postura de la cucharita).",
+      "puntuacion": 88,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "MismoSexo"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} ata las manos de {Receptor1} a la espalda y lo penetra analmente de pie, inclinado sobre una superficie.",
+      "puntuacion": 94,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "MismoSexo"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra a {Receptor1} mientras este se masturba para intentar llegar al orgasmo juntos.",
+      "puntuacion": 93,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "MismoSexo"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} y {Receptor1} probad la penetración anal mutua usando un consolador doble.",
+      "puntuacion": 97,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "MismoSexo"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra analmente a {Receptor1} y, al terminar, intercambiad los roles para que {Receptor1} penetre a {Actor1}.",
+      "puntuacion": 98,
+      "Duracion_segundos": 400,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "MismoSexo"
+    },
+    {
+      "Categoria": "Penetración",
+      "Nivel": 5,
+      "Reto": "{Actor1} penetra analmente a {Receptor1} delante de un espejo, mirándose a los ojos durante todo el acto.",
+      "puntuacion": 95,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "MismoSexo"
+        },
+    {
     }
+          "Categoria": "Preguntas",
+      "Nivel": 5,
+      "Reto": "{Actor1}, sé brutalmente honesto/a: ¿Qué es lo único que cambiarías de cómo {Receptor1} hace el amor?",
+      "puntuacion": 80,
+      "Duracion_segundos": 90,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 5,
+      "Reto": "{Actor1}, ¿alguna vez has fingido un orgasmo con {Receptor1}? Si es sí, revela cuándo y por qué.",
+      "puntuacion": 85,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 5,
+      "Reto": "{Actor1}, ¿con qué amigo/a de {Receptor1} tendrías una aventura si tuvieras un 'pase libre' garantizado?",
+      "puntuacion": 90,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 4,
+      "Reto": "{Actor1}, ¿cuál es tu mayor inseguridad sobre tu cuerpo cuando estás completamente desnudo/a frente a alguien?",
+      "puntuacion": 60,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 5,
+      "Reto": "{Actor1}, ordena de mejor a peor amante a las últimas 3 personas con las que te has acostado, incluyéndome si procedo.",
+      "puntuacion": 95,
+      "Duracion_segundos": 90,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 4,
+      "Reto": "{Actor1}, describe con todo detalle el encuentro sexual del que más te arrepientes en tu vida.",
+      "puntuacion": 65,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 4,
+      "Reto": "{Actor1}, ¿cuál es la fantasía sexual más tabú o extraña que tienes y que nunca te has atrevido a contar?",
+      "puntuacion": 70,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 5,
+      "Reto": "{Actor1}, ¿has sido infiel (física o emocionalmente) en alguna de tus relaciones pasadas? Cuenta la historia.",
+      "puntuacion": 80,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 4,
+      "Reto": "{Actor1}, ¿alguna vez has pagado o te han pagado por sexo? Describe la situación.",
+      "puntuacion": 75,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 4,
+      "Reto": "{Actor1}, ¿qué es lo más doloroso que has consentido en el sexo y por qué lo hiciste?",
+      "puntuacion": 68,
+      "Duracion_segundos": 90,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 5,
+      "Reto": "{Actor1}, ¿qué es lo que hacía una ex pareja tuya en la cama que echas de menos o te gustaría volver a experimentar?",
+      "puntuacion": 88,
+      "Duracion_segundos": 90,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 4,
+      "Reto": "{Actor1}, si pudieras ver un vídeo de {Receptor1} teniendo sexo con otra persona, ¿lo harías?",
+      "puntuacion": 72,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 4,
+      "Reto": "{Actor1}, ¿cuál es el objeto más extraño que has usado para masturbarte?",
+      "puntuacion": 65,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 5,
+      "Reto": "{Actor1}, describe un momento en el que te hayas sentido genuinamente celoso/a de una interacción de {Receptor1} con otra persona.",
+      "puntuacion": 82,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 3,
+      "Reto": "{Actor1}, ¿qué es lo más degradante que estarías dispuesto/a a hacer en la cama si te lo pidiera la persona adecuada?",
+      "puntuacion": 55,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 4,
+      "Reto": "{Actor1}, ¿alguna vez has tenido una experiencia sexual con alguien de tu mismo sexo? Si no, ¿lo considerarías?",
+      "puntuacion": 60,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 5,
+      "Reto": "{Actor1}, ¿hay algo sobre el historial sexual de {Receptor1} que prefieres no saber? ¿El qué y por qué?",
+      "puntuacion": 85,
+      "Duracion_segundos": 90,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 4,
+      "Reto": "{Actor1}, ¿cuál ha sido el mayor número de personas con las que has tenido sexo en un periodo de 24 horas?",
+      "puntuacion": 70,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 4,
+      "Reto": "{Actor1}, describe la última vez que te masturbaste. ¿En qué o quién pensabas exactamente?",
+      "puntuacion": 65,
+      "Duracion_segundos": 90,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 5,
+      "Reto": "{Actor1}, si descubrieras que {Receptor1} tiene un fetiche que a ti te repugna, ¿intentarías complacerle?",
+      "puntuacion": 80,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 4,
+      "Reto": "{Actor1}, ¿has perdido alguna amistad por culpa de un lío sexual? Cuenta la historia.",
+      "puntuacion": 75,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 4,
+      "Reto": "{Actor1}, ¿qué es lo más cerca que has estado de tener sexo en un lugar donde era totalmente ilegal o inapropiado hacerlo?",
+      "puntuacion": 68,
+      "Duracion_segundos": 90,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 5,
+      "Reto": "{Actor1}, ¿te excitaría o te intimidaría que {Receptor1} fuera mucho más experimentado/a sexualmente que tú?",
+      "puntuacion": 78,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 4,
+      "Reto": "{Actor1}, ¿alguna vez has llorado por frustración sexual? Describe la situación.",
+      "puntuacion": 70,
+      "Duracion_segundos": 90,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Preguntas",
+      "Nivel": 5,
+      "Reto": "{Actor1}, si tuvieras que confesarle a {Receptor1} tu pensamiento más oscuro o perverso sobre él/ella, ¿cuál sería?",
+      "puntuacion": 92,
+      "Duracion_segundos": 90,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    "Categoria": "Medios",
+      "Nivel": 2,
+      "Reto": "{Actor1}, haz una foto artística de tus labios mordiendo una fresa o un trozo de fruta. Solo se pueden ver los labios.",
+      "puntuacion": 25,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 3,
+      "Reto": "{Actor1}, envía una foto de la ropa interior que llevas puesta ahora mismo, sin que se vea tu cara.",
+      "puntuacion": 35,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 3,
+      "Reto": "{Actor1}, graba un vídeo de 15 segundos de tus manos acariciando lentamente tu propio pecho y abdomen.",
+      "puntuacion": 40,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 4,
+      "Reto": "{Actor1}, haz una foto en primer plano y muy detallada de tus genitales.",
+      "puntuacion": 60,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 4,
+      "Reto": "{Actor1}, graba un vídeo POV (tu punto de vista) mirando hacia abajo mientras te tocas por encima de la ropa.",
+      "puntuacion": 65,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 5,
+      "Reto": "{Actor1}, graba un vídeo de un minuto masturbándote. La cámara solo puede enfocar desde tu cuello hacia abajo.",
+      "puntuacion": 85,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 3,
+      "Reto": "{Actor1}, haz una foto de tu torso desnudo y mojado, como si acabaras de salir de la ducha.",
+      "puntuacion": 45,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 4,
+      "Reto": "{Actor1}, haz que {Receptor1} te deje una marca (chupetón o mordisco) en el cuello o el pecho y sácale una foto.",
+      "puntuacion": 55,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 5,
+      "Reto": "{Actor1}, graba un vídeo de tus manos masturbando a {Receptor1}. Solo se pueden ver tus manos y sus genitales.",
+      "puntuacion": 80,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 3,
+      "Reto": "{Actor1}, envía una foto de tus nalgas, en ropa interior o sin ella.",
+      "puntuacion": 40,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 4,
+      "Reto": "{Actor1}, graba un vídeo corto de cómo te quitas lentamente una prenda de ropa (calcetines, camiseta, sujetador...).",
+      "puntuacion": 50,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 4,
+      "Reto": "{Actor1}, saca una foto del pene erecto de {Receptor1} desde un ángulo creativo.",
+      "puntuacion": 58,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 5,
+      "Reto": "{Actor1}, graba un vídeo de las caderas de {Receptor1} moviéndose mientras te penetra (sin mostrar caras).",
+      "puntuacion": 90,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Mujer"],
+        "Receptor1": ["Hombre"]
+      },
+      "Interaccion": "SexoOpuesto"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 3,
+      "Reto": "{Actor1}, envía una foto sugerente con el escote o el bulto del pantalón como protagonista.",
+      "puntuacion": 38,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 4,
+      "Reto": "{Actor1}, envía una secuencia de 3 fotos a {Receptor1}: normal, quitándote una prenda, y sin ella. (Sin cara).",
+      "puntuacion": 62,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 5,
+      "Reto": "{Actor1}, haz una videollamada con {Receptor1} donde le muestres tu cuerpo del cuello para abajo y sigas sus instrucciones.",
+      "puntuacion": 88,
+      "Duracion_segundos": 300,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 4,
+      "Reto": "{Actor1}, graba un vídeo de cómo derramas miel o chocolate líquido sobre una parte de tu cuerpo y lo lames.",
+      "puntuacion": 68,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 3,
+      "Reto": "{Actor1}, envía un audio a {Receptor1} fingiendo un orgasmo.",
+      "puntuacion": 50,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 5,
+      "Reto": "{Actor1}, graba un vídeo de cómo eyaculas sobre una parte del cuerpo de {Receptor1}.",
+      "puntuacion": 92,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre"],
+        "Receptor1": ["Mujer", "Hombre"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 4,
+      "Reto": "{Actor1}, toma una foto de las piernas o el trasero de {Receptor1} sin que se dé cuenta.",
+      "puntuacion": 55,
+      "Duracion_segundos": 60,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 4,
+      "Reto": "{Actor1}, graba un vídeo en primer plano de cómo usas un vibrador sobre tu cuerpo (sin mostrar genitales ni cara).",
+      "puntuacion": 65,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 3,
+      "Reto": "{Actor1}, escribe el nombre de {Receptor1} en tu muslo o abdomen con pintalabios y envía una foto.",
+      "puntuacion": 48,
+      "Duracion_segundos": 240,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 5,
+      "Reto": "{Actor1}, filma un 'juego de sombras' erótico en la pared, donde solo se vean vuestras siluetas tocándose.",
+      "puntuacion": 82,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"],
+        "Receptor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 4,
+      "Reto": "{Actor1}, haz una foto artística del 'después': sábanas revueltas, un preservativo usado, fluidos en la piel, etc.",
+      "puntuacion": 60,
+      "Duracion_segundos": 120,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+    },
+    {
+      "Categoria": "Medios",
+      "Nivel": 4,
+      "Reto": "{Actor1}, envía una foto de tus genitales usando un 'filtro' creativo de alguna app (sin que deje de ser explícito).",
+      "puntuacion": 52,
+      "Duracion_segundos": 180,
+      "Roles": {
+        "Actor1": ["Hombre", "Mujer"]
+      },
+      "Interaccion": "Indiferente"
+   }
   ]
 }
+
+
+      
+
+      
+   
