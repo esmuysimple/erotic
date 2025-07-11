@@ -2622,7 +2622,7 @@
       "Interaccion": "Indiferente"
     },
     {
-            "Categoria": "Penetración",
+      "Categoria": "Penetración",
       "Nivel": 5,
       "Reto": "{Actor1} penetra a {Receptor1} mientras ella está tumbada de lado con una pierna levantada.",
       "puntuacion": 85,
@@ -3529,7 +3529,7 @@
       "Interaccion": "Indiferente"
     },
     {
-"Categoria": "Penetración",
+      "Categoria": "Penetración",
       "Nivel": 5,
       "Reto": "{Actor1} penetra analmente a {Receptor1} en la postura del misionero (con {Receptor1} tumbado boca arriba).",
       "puntuacion": 90,
@@ -3647,10 +3647,9 @@
         "Receptor1": ["Hombre"]
       },
       "Interaccion": "MismoSexo"
-        },
+    },
     {
-    }
-          "Categoria": "Preguntas",
+      "Categoria": "Preguntas",
       "Nivel": 5,
       "Reto": "{Actor1}, sé brutalmente honesto/a: ¿Qué es lo único que cambiarías de cómo {Receptor1} hace el amor?",
       "puntuacion": 80,
@@ -3932,7 +3931,9 @@
         "Receptor1": ["Hombre", "Mujer"]
       },
       "Interaccion": "Indiferente"
-    "Categoria": "Medios",
+    },
+    {
+      "Categoria": "Medios",
       "Nivel": 2,
       "Reto": "{Actor1}, haz una foto artística de tus labios mordiendo una fresa o un trozo de fruta. Solo se pueden ver los labios.",
       "puntuacion": 25,
@@ -4216,12 +4217,6 @@
         "Actor1": ["Hombre", "Mujer"]
       },
       "Interaccion": "Indiferente"
-   }
+    }
   ]
 }
-
-
-      
-
-      
-   
